@@ -1,5 +1,5 @@
 # Project: Lumen Service App
-Tugas 7 - Web Service
+Tugas 8 - Web Service
 
 ### install Dependency 
 ```sh
